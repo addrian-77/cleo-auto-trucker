@@ -1,7 +1,6 @@
 # Auto Trucker
 **Pentru a descarca modul, apasati pe butonul <>Code, iar apoi pe Download ZIP**
 #
-# Auto Truck CLEO Mod
 
 > Modul a fost facut cu CLEO 4.1.1.30 si SAMPFUNCS 5.4.0, nu am testat compatibilitate pentru alte versiuni.
 
