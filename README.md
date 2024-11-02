@@ -1,2 +1,6 @@
-Comanda: /trucker      -         
-Pentru instalare descarcati arhiva si puneti "routes.txt" si "trucker autoselect.cs" in folderul cleo. Este important ca ambele file sa fie acolo, altfel modul nu va functiona.
+# Auto Trucker
+> Pentru a descarca modul, apasati pe butonul <>Code, iar apoi pe Download ZIP
+#
+> Modul se pune in folderul CLEO
+#
+> comanda: /trucker
